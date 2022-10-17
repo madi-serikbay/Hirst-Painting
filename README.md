@@ -1,2 +1,2 @@
 # Hirst-Painting
-This is beginner level python project for the hirst painting
+This is intermediate level python project for the hirst painting
